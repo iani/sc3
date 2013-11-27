@@ -1,0 +1,20 @@
+- This folder contains the LHC Quark for SuperCollider programming environment.
+- LHC stands for Live Hardware Coding.
+- For more info visit: https://aucotsi.com/#writings
+- This folder contains all up-to-date information for LHC.
+- The initial Classes can be found @ 
+  https://github.com/iani/SC/tree/master/Quarks/iz.projects/LHC
+- There are 4 Classes: 
+  	- LHC
+	- FSMdecoder
+	- LHCplayer
+	- LHCV
+- The initial class is the LHC.sc and functions as the device demonstrating @ https://vimeo.com/43121821
+- LHCV.sc is a simulator class for the other device(*), which includes an analogue parameter for controlling the positive edge clock of the 3-bit counter machine. The class is still under development, but it works as expected.
+ 
+- Feel free to contribute, alternate, reuse code.
+GPL - CC-BY-SA
+
+(*) http://farmstaticflickr.6.com/5034/6950633610_ccccfa87bb.jpg
+http://www.flickr.com/photos/stevewelburn/6943921914/in/set-72157629821138173/
+Photo by Steve Welburn.
